@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{244:function(a,t,u){"use strict";u.r(t);var e={name:"Bgmusic",data:()=>({audio:!0})},n=u(11),o=Object(n.a)(e,(function(){var a=this.$createElement;return(this._self._c||a)("audio",{attrs:{id:"audio",src:"/bgmusic.mp3",autoplay:"",loop:"",preload:""}})}),[],!1,null,null,null);t.default=o.exports}}]);
